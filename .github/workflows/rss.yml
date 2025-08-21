@@ -1,0 +1,51 @@
+name: Generate Weekly RSS
+
+on:
+  schedule:
+    # 每周一 00:10 UTC 运行（UTC 固定；如需北京时间周一早上 08:10，保持如下即可）
+    - cron: "10 0 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write      # 允许 push 到 gh-pages 分支
+  # 仅使用 peaceiris/actions-gh-pages 时，这一项足够；
+  # 如果你改用官方 Pages Action，需要：pages: write, id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: weekly-rss
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 用于 GitHub API 鉴权与提额
+        run: python generate_rss.py
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # 如果你想强制保留历史，可设置 keep_files: true（不建议对 RSS）
