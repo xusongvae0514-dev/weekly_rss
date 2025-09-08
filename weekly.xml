@@ -7,22 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Sep 2025 03:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 03:28:13 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>09</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/09.md</link>
-      <description>第九期【2024年7月27日-2024年8月3日】 科技软件 有一个非常火的开源小说软件，叫做【阅读】，使用它几乎可以免费看各种电子书， 但是，【阅读】本身是没有任何书籍资源的，需要导入书源才能使用。 &lt;br/&gt; &lt;br/&gt; &lt;br/&gt; 李跳跳在停更之后，也是需要导入规则，进行复活。 &lt;br/&gt; &lt;br/&gt; &lt;br/&gt; 这种软件模式，叫做【枪弹分离】模式，是目前很多资源类软件，为了规避风险常用的模式，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/09.md</guid>
-      <pubDate>Sat, 12 Jul 2025 15:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>53</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/53.md</link>
-      <description>第53期【2025年5月31日-2025年6月7日】 1.Google AI Edge Gallery 这是一个新开源的手机 APP， 它可以让你在手机上，离线本地运行 Hugging Face 上的模型， 且支持图像问答、文字问答等多种模式。 不过说实话，我个人认为手机本地运行大模型意义不大，喜欢折腾的可以试一下。 【Google AI Edge Gallery】https://github.com/google-ai-edge/gallery 2.syncthing syncthing 是一个开源的文件同步项目， 它可以通过局域网、或者互联网，同步多台设备上指定文件夹中的文件。 并且，使用起来很简单， Windows（Mac） 是打包好的 exe，全程界面操作，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/53.md</guid>
-      <pubDate>Sat, 12 Jul 2025 15:22:03 +0000</pubDate>
-    </item>
     <item>
       <title>54</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/54.md</link>
@@ -92,6 +78,20 @@
       <description>第63期【2025年8月9日-2025年8月16日】 1.fuck-u-code 这是一个开源的代码质量检测器， 用来检测你的代码写得到底有多烂，是不是屎山， 它会通过七大维度，对代码全面分析，然后给出 0-100 的评分，以及详细的评价。 比较有意思的是，用它检测自己的代码，最后只得到了 40 分左右，鉴定为大屎山。 fuck-u-code：https://github.com/Done-0/fuck-u-code 2.Campus_recruitment_interview_questions 这个项目中，收集了上千道各个大厂的校招面试真题， 并且，全部都是 2025 年最新的题目。 覆盖 阿里、腾讯、字节、美团、百度、华为 等近百家头部公司， 每道题目都配备了详细的文字、视频讲解。</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/63.md</guid>
       <pubDate>Sat, 16 Aug 2025 14:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>64</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/64.md</link>
+      <description>第64期：【2025年8月16日-2025年8月23日】 1. GitHubDaily 这是一个收集、整理 GitHub 开源项目的项目， 已经持续从 2018 年更新到了 2024 年，分享了超过 8000 个开源项目， 包括各种软件、技术资料、开发者工具、编程网站等大量内容， 我观察了一下，其中很多东西质量都很高。 GitHubDaily 平时主要在社交平台更新， GitHub 上的这个项目，目前是每年更新一次。 如果你对各种开源项目感兴趣，可以了解一下。 GitHubDaily：https://github.com/GitHubDaily/GitHubDaily 2. everything-ai-chat 这是一个基于 Everything 开发的项目，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/64.md</guid>
+      <pubDate>Wed, 03 Sep 2025 14:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>65</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/65.md</link>
+      <description>第65期：【2025年8月23日-2025年8月30日】 1. Xget 因为网络的原因， 在国内下载 GitHub、NPM 等开源软件，或者依赖包的时候， 总是会遇到下载失败的问题。 Xget 是一个开源的资源获取加速引擎， 在全球部署了 330 多个边缘节点，速度非常快。 比如，我现在想要下载 GitHub 上的一个软件， 正常情况下，会直接提示网络错误无法打开。 而现在，我到 Xget 转换器里，转换一下链接， 文件就可以正常下载了，并且速度非常快。 除了转换器，Xget 还有一个浏览器扩展 Xget-Now，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/65.md</guid>
+      <pubDate>Wed, 03 Sep 2025 14:04:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
