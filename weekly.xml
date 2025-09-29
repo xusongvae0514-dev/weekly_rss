@@ -7,22 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 02:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 02:03:17 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>58</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/58.md</link>
-      <description>第58期【2025年7月5日-2025年7月12日】 1.free-for-dev 看名字就知道，这是一个给所有开发者准备的免费资源库， 包括 谷歌云、亚马逊云、微软云、Oracle 云、Cloudflare 等免费的云服务， 各种免费但有用的 API、低代码平台、适合编程的字体、免费的 IDE、免费的游戏开发素材， 几十种大类、近千个条目，大部分都非常有用， 所以，它在 GitHub 的 Star 数也非常夸张，足足有 100 多 k。 【free-for-dev】https://github.com/ripienaar/free-for-dev 2.MediaCrawler 这是一个开源的爬虫项目，它支持国内的 7 大社交平台， 支持自动搜索、爬取指定的帖子视频、爬取评论区、爬取指定博主等等， 爬取完数据，可以保存到数据库，导出成 Excel 文件、JSON 文件，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/58.md</guid>
-      <pubDate>Sat, 12 Jul 2025 15:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>59</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/59.md</link>
-      <description>第59期【2025年7月12日-2025年7月19日】 1.note-gen 这是一个开源的笔记软件， 支持 Windows、Mac、Linux、iOS 和 Android 等多个平台。 假如只是想随手记录几句话，或者保存图片，可以使用 “记录” 模式， 支持 文本、截图、图片、文件、链接 等多种记录方式。 假如想长篇创作，可以使用 “写作” 模式，主要使用 Markdown 语法。 NoteGen 默认会把数据全部保存到本地，但也能通过 GitHub、Gitee 的私有仓库进行云同步。 同时，它还可以接入 AI 模型，通过 RAG 把你的笔记变成一个本地知识库， 随时通过 AI 来总结、提取笔记数据。 note-gen：https://github.com/codexu/note-gen 2.FreeMove</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/59.md</guid>
-      <pubDate>Sat, 02 Aug 2025 10:51:41 +0000</pubDate>
-    </item>
     <item>
       <title>60</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/60.md</link>
@@ -89,9 +75,23 @@
     <item>
       <title>67</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/67.md</link>
-      <description>第67期：【2025年9月6日-2205年9月13日】 1.vitepress 静态博客 这是一个可以把 MarkDown 文档，转换成静态网站的开源项目， 并且，可以自己定制主题， 根据需要增加搜索、增加 RSS 订阅 等各种功能。 我在 GitHub 的 “科技补全开源项目文案合集”， 本周就通过它 和 GitHub Actions，定制了一个静态网站出来。 现在可以很方便的查看、搜索其中的内容。 vitepress：https://github.com/vuejs/vitepress 2.IndexTTS2 声音克隆 这是某 B 本周刚刚开源的一个声音克隆模型， 可以通过几秒钟的样本，来定制相似度极高，且具有丰富情感的声音。</description>
+      <description>第67期：【2025年9月6日-2025年9月13日】 1.vitepress 静态博客 这是一个可以把 MarkDown 文档，转换成静态网站的开源项目， 并且，可以自己定制主题， 根据需要增加搜索、增加 RSS 订阅 等各种功能。 我在 GitHub 的 “科技补全开源项目文案合集”， 本周就通过它 和 GitHub Actions，定制了一个静态网站出来。 现在可以很方便的查看、搜索其中的内容。 vitepress：https://github.com/vuejs/vitepress 2.IndexTTS2 声音克隆 这是某 B 本周刚刚开源的一个声音克隆模型， 可以通过几秒钟的样本，来定制相似度极高，且具有丰富情感的声音。</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/67.md</guid>
-      <pubDate>Sun, 14 Sep 2025 06:47:47 +0000</pubDate>
+      <pubDate>Sun, 14 Sep 2025 07:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>68</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/68.md</link>
+      <description>第68期：【2025年9月13日-2025年9月20日】 1.CookLikeHOC 老乡鸡 最近关于预制菜的话题很火， 老乡鸡因为明确标识了 “现做菜” 和 “预制菜”，成了正面典型， 然后，CookLikeHOC 这个项目就火了， 它整理了《老乡鸡菜品溯源报告》中的内容，全面归纳了老乡鸡各种菜品的做法， 包括各种主食、凉菜、卤菜、早餐、汤等内容， 如果你想了解老乡鸡的菜是怎么做的，或许对你有用。 CookLikeHOC 老乡鸡：https://github.com/Gar-b-age/CookLikeHOC 2.missing-web 你缺失的那门计算机课 中文名叫《你缺失的那门计算机课》， 这是一个开源的计算机基础教程，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/68.md</guid>
+      <pubDate>Thu, 25 Sep 2025 05:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>69</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/69.md</link>
+      <description>第69期：2025年9月20日-2025年9月27日 1.tray-chrome 任务托盘浏览器 这是一个开源的浏览器， 和普通的浏览器不一样的是， 它会默认显示在通知栏托盘里， 点开之后也只有一个手机样式的小窗口。 并且默认会一直显示在电脑桌面的最上方， 你可以根据自己的需要，调整它的大小， 设置让它使用手机模式还是电脑模式。 具体这个小浏览器有什么用，就看你个人的需求了， 比如我可以在这里打开一个 DeepSeek，打造一个 AI 侧边栏， 我更喜欢某个网页的手机版本，也可以用它来实现。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/69.md</guid>
+      <pubDate>Sat, 27 Sep 2025 13:39:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
