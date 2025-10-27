@@ -7,36 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Oct 2025 02:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 02:20:13 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>60</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/60.md</link>
-      <description>第60期【2025年7月19日-2025年7月26日】 1.novel-disguise 这是一个开源的油猴脚本， 安装在浏览器上之后，打开小说网站， 阅读页面就会自动变成类似 Word 的样式。 假如你的工作不是很忙，但又不想光明正大的摸鱼，可以用它适当伪装一下。 novel-disguise：https://github.com/NiaoBlush/novel-disguise 2.sherlock 只需要输入用户名， 它就可以自动在 400 多个社交网站中搜索这个名字， 然后把使用这个名字的账号全部列出来， 不过，目前这个项目支持的大多数都是国外网站，收录的国内网站较少。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/60.md</guid>
-      <pubDate>Sat, 02 Aug 2025 10:55:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>61</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/61.md</link>
-      <description>第61期【2025年7月26日-2025年8月2日】 1.MoonTV 这是一个开源的影视聚合播放站， 你可以通过它，非常简单的搭建出来一个自己的视频网站。 并且，它内置了十几个视频源， 经过我的测试，各种电视剧、电影、动画都在上边找到和在线观看。 使用体验比市面上的视频网站要好上很多，并且是自己私有，不用担心忽然关站跑路。 MoonTV：https://github.com/senshinya/MoonTV 2.pansou-ui 这是一个开源的网盘搜索工具， 它集成了多个网盘的搜索结果，后台数据来源于 TG 上的资源频道，和网盘搜索引擎，所以资源非常丰富， 搜索完成之后，可以按平台进行筛选，按时间和名称排序，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/61.md</guid>
-      <pubDate>Sat, 02 Aug 2025 10:57:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>62</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/62.md</link>
-      <description>第62期【2025年8月2日-2025年8月9日】 ​ 1.EcoPaste 这是一个开源的剪切板工具，支持 Windows、Mac、Linux 多个平台， 我拿 Windows 版本举例，虽然系统自带的剪切板已经挺好用了， 但还是有不能搜索，重启后内容会消失等问题。 EcoPaste 相比系统剪切板，进行了极大的增强， 安装完之后，按下快捷键即可呼出， 它会记录下所有你复制过的内容，并按文本、图片、文件进行分类。 双击内容，可以把它直接粘贴， 如果有很早之前保存的内容，但找不到，可以在上边搜索， 一些经常输入的内容，可以点击收藏，保存在收藏选项里。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/62.md</guid>
-      <pubDate>Sat, 16 Aug 2025 14:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>63</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/63.md</link>
-      <description>第63期【2025年8月9日-2025年8月16日】 1.fuck-u-code 这是一个开源的代码质量检测器， 用来检测你的代码写得到底有多烂，是不是屎山， 它会通过七大维度，对代码全面分析，然后给出 0-100 的评分，以及详细的评价。 比较有意思的是，用它检测自己的代码，最后只得到了 40 分左右，鉴定为大屎山。 fuck-u-code：https://github.com/Done-0/fuck-u-code 2.Campus_recruitment_interview_questions 这个项目中，收集了上千道各个大厂的校招面试真题， 并且，全部都是 2025 年最新的题目。 覆盖 阿里、腾讯、字节、美团、百度、华为 等近百家头部公司， 每道题目都配备了详细的文字、视频讲解。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/63.md</guid>
-      <pubDate>Sat, 16 Aug 2025 14:18:30 +0000</pubDate>
-    </item>
     <item>
       <title>64</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/64.md</link>
@@ -92,6 +64,34 @@
       <description>第69期：2025年9月20日-2025年9月27日 1.tray-chrome 任务托盘浏览器 这是一个开源的浏览器， 和普通的浏览器不一样的是， 它会默认显示在通知栏托盘里， 点开之后也只有一个手机样式的小窗口。 并且默认会一直显示在电脑桌面的最上方， 你可以根据自己的需要，调整它的大小， 设置让它使用手机模式还是电脑模式。 具体这个小浏览器有什么用，就看你个人的需求了， 比如我可以在这里打开一个 DeepSeek，打造一个 AI 侧边栏， 我更喜欢某个网页的手机版本，也可以用它来实现。</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/69.md</guid>
       <pubDate>Sat, 27 Sep 2025 13:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>70</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/70.md</link>
+      <description>第70期：2025年9月27日-2025年10月4日 1.N-Tab 不知道你平时有没有遇到过： 打开浏览器标签页过多，导致内存占用飙升。 打开浏览器标签页过多，导致标签栏几乎被占满。 开了很多网页，但是马上要关电脑，担心明天网页会找不到。 等各种使用浏览器时，会遇到的问题。 N-Tab 是一个开源的浏览器扩展， 它可以点一下，就把你当前打开的网页给收纳起来， 并放在一个网页里，按时间线展示。 那么它有什么用呢？ 比如我平时写稿，会打开很多网页来查资料，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/70.md</guid>
+      <pubDate>Mon, 20 Oct 2025 07:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>71</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/71.md</link>
+      <description>第71期：2025年10月4日-2025年10月11日 1.SteamAchievementManager Steam 是目前全球最大的单机游戏平台， 但是，他们很多的功能，都没有添加严格验证，这就导致有很多漏洞存在。 比如网上很多卖游戏的， 都是通过  “伪入库” 来实现，能让你 “离线游玩” 各种游戏，并且操作非常简单， 但这部分因为平台创作规则，所以就不再具体分享。 再比如，各种游戏的成就系统，也可以轻易的通过伪装请求来解锁。 SteamAchievementManager 是一个开源的 Steam 成就解锁工具， 你可以通过它，解锁你的 Steam 任意游戏的任意成就， 并且使用起来非常简单，只需要登录 Steam，打开游戏，输入游戏 ID，就可以了。 如果你对收集游戏成就有兴趣，可以了解一下。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/71.md</guid>
+      <pubDate>Mon, 20 Oct 2025 07:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>72</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/72.md</link>
+      <description>2025年10月11日-2025年10月18日 1.FileConverter 这是一个开源的文件格式转换工具， 它支持转换音频、视频、图片、文档等四种文件类型，一共几十个常见的格式， 能覆盖工作生活中大部分的文件转换需求。 并且，它使用起来非常简单， 安装之后，直接鼠标右键点击文件，选择 “FileConverter”， 然后选择一个文件格式，它就会自动生成一个对应格式的文件。 相比于其它格式转换工具， FileConverter 使用起来更方便，占用也非常小，是一个很优秀的项目。 FileConverter（文件格式转换） https://github.com/Tichau/FileConverter</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/72.md</guid>
+      <pubDate>Mon, 20 Oct 2025 07:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>73</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/73.md</link>
+      <description>2025年10月18日-2025年10月25日 1.ExplorerPatcher 虽然 Win11 目前已经成为 用户最多的电脑操作系统， 但是很多人并不是很喜欢它的设计，尤其是任务栏和右键菜单。 ExplorerPatcher 是一个开源的系统优化工具， 可以让我们定制 Win11 的很多设计。 打开它之后，电脑会自动重启 Explorer 窗口，此时屏幕可能会黑屏几秒， 然后你的任务栏就会变成 Win10 的样式。 在下边的任务栏中点击右键，选择 “属性”，打开 ExplorerPatcher 的设置页面， 能在这里看到很多其它的选项，这些你都可以按自己的想法调整。 比如能选择使用 Win10 还是 Win11 的风格，是否显示任务栏上的搜索框， 禁用掉 Win11 的双层右键菜单，恢复 Win10 的磁贴，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/73.md</guid>
+      <pubDate>Sat, 25 Oct 2025 16:45:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
