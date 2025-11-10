@@ -7,22 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Nov 2025 02:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 02:19:08 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>64</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/64.md</link>
-      <description>第64期：【2025年8月16日-2025年8月23日】 1. GitHubDaily 这是一个收集、整理 GitHub 开源项目的项目， 已经持续从 2018 年更新到了 2024 年，分享了超过 8000 个开源项目， 包括各种软件、技术资料、开发者工具、编程网站等大量内容， 我观察了一下，其中很多东西质量都很高。 GitHubDaily 平时主要在社交平台更新， GitHub 上的这个项目，目前是每年更新一次。 如果你对各种开源项目感兴趣，可以了解一下。 GitHubDaily：https://github.com/GitHubDaily/GitHubDaily 2. everything-ai-chat 这是一个基于 Everything 开发的项目，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/64.md</guid>
-      <pubDate>Wed, 03 Sep 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>65</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/65.md</link>
-      <description>第65期：【2025年8月23日-2025年8月30日】 1. Xget 因为网络的原因， 在国内下载 GitHub、NPM 等开源软件，或者依赖包的时候， 总是会遇到下载失败的问题。 Xget 是一个开源的资源获取加速引擎， 在全球部署了 330 多个边缘节点，速度非常快。 比如，我现在想要下载 GitHub 上的一个软件， 正常情况下，会直接提示网络错误无法打开。 而现在，我到 Xget 转换器里，转换一下链接， 文件就可以正常下载了，并且速度非常快。 除了转换器，Xget 还有一个浏览器扩展 Xget-Now，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/65.md</guid>
-      <pubDate>Wed, 03 Sep 2025 14:04:50 +0000</pubDate>
-    </item>
     <item>
       <title>66</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/66.md</link>
@@ -92,6 +78,20 @@
       <description>2025年10月18日-2025年10月25日 1.ExplorerPatcher 虽然 Win11 目前已经成为 用户最多的电脑操作系统， 但是很多人并不是很喜欢它的设计，尤其是任务栏和右键菜单。 ExplorerPatcher 是一个开源的系统优化工具， 可以让我们定制 Win11 的很多设计。 打开它之后，电脑会自动重启 Explorer 窗口，此时屏幕可能会黑屏几秒， 然后你的任务栏就会变成 Win10 的样式。 在下边的任务栏中点击右键，选择 “属性”，打开 ExplorerPatcher 的设置页面， 能在这里看到很多其它的选项，这些你都可以按自己的想法调整。 比如能选择使用 Win10 还是 Win11 的风格，是否显示任务栏上的搜索框， 禁用掉 Win11 的双层右键菜单，恢复 Win10 的磁贴，</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/73.md</guid>
       <pubDate>Sat, 25 Oct 2025 16:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>74</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/74.md</link>
+      <description>2025年10月25日-2025年11月1日 1.BettaFish 这是一个开源的舆情分析平台，可以帮助你破除信息检方，还原事件舆情原貌，并预测未来走向。 并且它使用起来也非常简单，只需要像聊天一样，提出来你要分析的内容，然后系统就会自动抓取分析国内外三十多家主流社媒和上百万大众评论的数据，并基于这些数据做分析，尽可能真实地生成报告。 比如某大学事件的舆情，使用它做分析，最后出来的报告是这样的，非常详细。 类似的舆情分析平台大部分都是企业级的专业收费软件。 BettaFish 作为一个开源项目，不但完全免费，做的也非常好。 BettaFish：https://github.com/666ghj/BettaFish 2. spleeter（声音分离） 这是一个开源的 desire 元分离库，可以使用它很轻松的在一段声音里分离出来其中的人声、音乐声、背景声。 不过 split 作为一个基础库...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/74.md</guid>
+      <pubDate>Wed, 05 Nov 2025 10:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>75</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/75.md</link>
+      <description>2025年11月1日-2025年11月8日 1.RyTuneX 这是一个开源的 Win10、Win11 优化工具， 打开之后，首页会显示目前电脑资源的使用状态， 我们选择 “优化” 页面，可以在这里看到很多选项， 比如 “禁用自动更新”、“禁用菜单显示延迟”、“启用游戏模式”。 “修理” 页面中，可以获取到电池健康报告、对内存进行诊断，优化电脑硬盘。 “精简” 页面可以一键批量卸载电脑上的各种软件，比电脑自带的卸载页面要好用很多。 “隐私” 页面可以关掉各种遥测和数据收集。 “功能” 中可以调整很多系统功能。 总而言之，这是一个非常全面的一站式优化方案。 RyTuneX（电脑优化）：https://github.com/rayenghanmi/RyTuneX</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/75.md</guid>
+      <pubDate>Sun, 09 Nov 2025 14:52:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
