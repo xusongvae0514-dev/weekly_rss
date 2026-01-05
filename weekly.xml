@@ -7,57 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Dec 2025 02:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 02:37:53 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>66</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/66.md</link>
-      <description>第66期：【2025年8月30日-2025年9月6日】 1.github-chinese 这是一个开源的油猴脚本， 功能看名字就知道，它会把 GitHub 的整个页面给汉化。 比如，原本项目主页显示的是 Code、Issues、Pull requests、Actions， 安装这个脚本之后，就变成了 代码、议题、拉取请求、操作， 不过，GitHub 上原本英文就不算很多，也比较好理解，不用翻译问题也不大， 如果你更习惯看中文，可以试一下。 github-chinese：https://github.com/maboloshi/github-chinese 2.ClassIsland 这是一个开源的课表显示工具，主要用于班级的多媒体屏幕， 安装之后，会在大屏幕上边显示一个横条，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/66.md</guid>
-      <pubDate>Tue, 09 Sep 2025 04:48:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>04</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/04.md</link>
-      <description>第四期 【2024年6月22日-2024年6月29日】 科技软件-各种模拟器 在手机上，其实有很多模拟器软件，可以让你玩童年怀旧游戏、掌机游戏、甚至电脑游戏， 比如我之前讲过的 Termux，可以用它在手机上运行 Linux 系统，安装 Python、Java、MySQL 等软件， 还能使用桌面环境，运行 VS Code、WPS 等桌面软件。 &lt;br/&gt; &lt;br/&gt; &lt;br/&gt; Winlator 是一个在手机上的 Windows 模拟器，我之前已经详细讲过一次， 可以在手机上模拟 Windows 环境，直接玩电脑游戏，甚至 3A 大作。 掌机和怀旧游戏的模拟器则更多。 比如像本世代最火的掌机 Switch，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/04.md</guid>
-      <pubDate>Tue, 09 Sep 2025 06:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>02</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/02.md</link>
-      <description>第二期 【2024年6月9日-2024年6月16日】 1.Dream Machine 初创公司 Luma 发布了他们的AI视频生成工具 Dream Machine，它能使用 120 秒的时间生成 120 帧的视频。 根据官方视频和网友放出的片段来看，Dream Machine 新生成的视频画面质量非常高，动作逼真连贯，运镜流畅自然，拥有电影级的效果。 不同于 OpenAI Sora 的一直不开放，Dream Machine 现在已经上线，并且所有人都能免费体验。 但根据网友的体验，他有时也会有翻车的情况，尤其是面对人体时。 Dream Machine 2.Stable Diffusion 3 Medium 该模型包含了 20 万亿个参数，拥有卓越的性能，能生成非常精细的图像。 但是根据很多网友的反馈，SD3 在人体生长方面效果奇怪，甚至有些诡异。 Stable Diffusion 3 Me...</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/02.md</guid>
-      <pubDate>Sun, 14 Sep 2025 03:29:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>67</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/67.md</link>
-      <description>第67期：【2025年9月6日-2025年9月13日】 1.vitepress 静态博客 这是一个可以把 MarkDown 文档，转换成静态网站的开源项目， 并且，可以自己定制主题， 根据需要增加搜索、增加 RSS 订阅 等各种功能。 我在 GitHub 的 “科技补全开源项目文案合集”， 本周就通过它 和 GitHub Actions，定制了一个静态网站出来。 现在可以很方便的查看、搜索其中的内容。 vitepress：https://github.com/vuejs/vitepress 2.IndexTTS2 声音克隆 这是某 B 本周刚刚开源的一个声音克隆模型， 可以通过几秒钟的样本，来定制相似度极高，且具有丰富情感的声音。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/67.md</guid>
-      <pubDate>Sun, 14 Sep 2025 07:25:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>68</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/68.md</link>
-      <description>第68期：【2025年9月13日-2025年9月20日】 1.CookLikeHOC 老乡鸡 最近关于预制菜的话题很火， 老乡鸡因为明确标识了 “现做菜” 和 “预制菜”，成了正面典型， 然后，CookLikeHOC 这个项目就火了， 它整理了《老乡鸡菜品溯源报告》中的内容，全面归纳了老乡鸡各种菜品的做法， 包括各种主食、凉菜、卤菜、早餐、汤等内容， 如果你想了解老乡鸡的菜是怎么做的，或许对你有用。 CookLikeHOC 老乡鸡：https://github.com/Gar-b-age/CookLikeHOC 2.missing-web 你缺失的那门计算机课 中文名叫《你缺失的那门计算机课》， 这是一个开源的计算机基础教程，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/68.md</guid>
-      <pubDate>Thu, 25 Sep 2025 05:13:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>69</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/69.md</link>
-      <description>第69期：2025年9月20日-2025年9月27日 1.tray-chrome 任务托盘浏览器 这是一个开源的浏览器， 和普通的浏览器不一样的是， 它会默认显示在通知栏托盘里， 点开之后也只有一个手机样式的小窗口。 并且默认会一直显示在电脑桌面的最上方， 你可以根据自己的需要，调整它的大小， 设置让它使用手机模式还是电脑模式。 具体这个小浏览器有什么用，就看你个人的需求了， 比如我可以在这里打开一个 DeepSeek，打造一个 AI 侧边栏， 我更喜欢某个网页的手机版本，也可以用它来实现。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/69.md</guid>
-      <pubDate>Sat, 27 Sep 2025 13:39:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>70</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/70.md</link>
-      <description>第70期：2025年9月27日-2025年10月4日 1.N-Tab 不知道你平时有没有遇到过： 打开浏览器标签页过多，导致内存占用飙升。 打开浏览器标签页过多，导致标签栏几乎被占满。 开了很多网页，但是马上要关电脑，担心明天网页会找不到。 等各种使用浏览器时，会遇到的问题。 N-Tab 是一个开源的浏览器扩展， 它可以点一下，就把你当前打开的网页给收纳起来， 并放在一个网页里，按时间线展示。 那么它有什么用呢？ 比如我平时写稿，会打开很多网页来查资料，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/70.md</guid>
-      <pubDate>Mon, 20 Oct 2025 07:03:33 +0000</pubDate>
-    </item>
     <item>
       <title>71</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/71.md</link>
@@ -92,6 +43,55 @@
       <description>2025年11月1日-2025年11月8日 1.RyTuneX 这是一个开源的 Win10、Win11 优化工具， 打开之后，首页会显示目前电脑资源的使用状态， 我们选择 “优化” 页面，可以在这里看到很多选项， 比如 “禁用自动更新”、“禁用菜单显示延迟”、“启用游戏模式”。 “修理” 页面中，可以获取到电池健康报告、对内存进行诊断，优化电脑硬盘。 “精简” 页面可以一键批量卸载电脑上的各种软件，比电脑自带的卸载页面要好用很多。 “隐私” 页面可以关掉各种遥测和数据收集。 “功能” 中可以调整很多系统功能。 总而言之，这是一个非常全面的一站式优化方案。 RyTuneX（电脑优化）：https://github.com/rayenghanmi/RyTuneX</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/75.md</guid>
       <pubDate>Sun, 09 Nov 2025 14:52:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>76</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/76.md</link>
+      <description>2025年11月8日-2025年11月15日 1.NCE-Flow 这是一个开源的新概念英语在线点读项目。 它的功能很简单，打开之后选择一个要听的单元， 点击播放，它就会连续播放整个单元的内容， 也可以单独点击并播放某一句话。 如果你在学新概念英语，有可能会有帮助。 NCE-Flow（新概念英语） https://github.com/luzhenhua/NCE-Flow 2.copyparty 这是一个开源的文件服务器， 它支持上传、下载、分享文件，支持断点续传、边传边下，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/76.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>77</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/77.md</link>
+      <description>2025年11月15-2025年11月22日 1.code-box 如果你经常访问 某SDN、某乎、掘金 等网站， 可能总是会遇到不登录账号就 无法查看、无法选中、无法复制 等情况。 code-box 是一个开源的浏览器扩展，可以直接去除这些网站乱七八糟的限制， 想复制就复制、想查看就查看，不会再被烦人的登录弹窗干扰。 code-box（免登录复制） https://github.com/027xiguapi/code-box 2.TrendRadar 这是一个开源的新闻资讯热点助手， 它会持续通过爬虫，自动获取 某音、某乎、某B 等主流平台的热门信息， 然后用 AI 对获取到的信息进行筛选分析，挑出来符合用户要求的内容，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/77.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>78</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/78.md</link>
+      <description>2025年11月22日-2025年11月29日 1.FreeBox 这是一个开源的播放器类空壳软件， 空壳软件是指，软件本身不提供任何内容， 需要用户手动导入源，才能正常使用的软件。 所以，FreeBox 打开之后，看到的只有这样一个页面， 然后我们点击 “导入源”，选择 “TVBox”， 在网上搜一个好用的订阅源粘贴进去。 最后点 “进入” 按钮，就可以查看各种视频了。 需要注意的是，FreeBox 使用前，需要先在电脑上安装一个 VLC 播放器。 其次，这类软件的使用体验，和使用的源高度相关， 只有填写高质量的源，才会比较好用。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/78.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>79</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/79.md</link>
+      <description>2025年11月29日-2025年12月6日 1.WSABuilds WSA，是 Windows Subsystem for Android 的简称， 可以让我们在 Windows 上，像原生应用一样，无缝的使用安卓应用。 这本来是微软官方推出的一个功能， 但是在今年三月，因为收入不佳已经停止维护。 WSABuilds 是一个基于 WSA 的开源项目， 并且，它在 WSA 的基础上，进行了优化。 比如，支持 Play 商店，和 Root 权限。 虽然微软已经不提供更新了，但这仍然是在电脑上，使用手机软件的最佳方式之一， 如果你有此类需求，可以尝试一下。 WSABuilds</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/79.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>80</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/80.md</link>
+      <description>2025年12月6日-2025年12月13日 1.Open-AutoGLM 在豆包手机爆火之后，智谱开源了它们的手机端智能助理框架 AutoGLM， 简单来说，它可以像豆包手机一样， 你只需要用嘴下命令，AI 就会自动解析你的需求，打开对应的软件进行操作。 它会自动解析软件界面上的内容， 并自主完成规划。 比如我之前体验的场景： 想要挑一个礼物， 给它下任务之后，它会自动搜索资料、确定挑选策略、让我选择孩子的信息。 最后到购物软件搜索，反复查看各种商品的介绍、顾客的评价， 并且还会换关键词多次搜索，最后给到一个清单。 整体来说，因为不是系统应用，所以没有豆包手机那么流畅，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/80.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:14:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>81</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/81.md</link>
+      <description>2025年12月13日-2025年12月20日 1.archiveweb.page 上周，我分享了一个叫 “LazyCat” 的开源项目， 它的作用是，可以扫描浏览器书签，并找出来其中已经失效的网页。 然后我就发现，之前保存的很多 文章、博客，都已经打不开了，让人非常遗憾。 archiveweb 是一个开源的浏览器扩展， 它的功能是，强制把浏览器上的网页完整保存下来。 就比如，我这里随便找了一个网页， 其中有文字、有图片、有代码，内容还算比较复杂。 点击浏览器上的扩展图标， 选择 “Start Archiving”， 稍微等待一会儿，当浏览器图标上显示对号的时候，点击 “Stop”。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/81.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>82</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/82.md</link>
+      <description>2025年12月20日-2025年12月27日 1.HQ-ICON 作为一个经常分享软件的博主，我经常会在视频中，用到各种 APP 的高清图标， 但是，直接用搜索引擎来搜索，大部分情况下，都只能得到低质量版本。 此前我曾经分享过， 在 App Store 网页版的代码中，获取高清 APP 图标的办法，但是稍微有点麻烦。 HQ-ICON 就是一个可以解决这种问题的开源项目，并且使用起来很简单。 在这里搜一下名字，就能获取到对应的图标，点击一下即可保存到本地。 它的数据同样来自 App Store，所以理论上，App Store 有的软件都能找到。 HQ-ICON https://github.com/YuKongA/HQ-ICON 2.Flyoobe</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/82.md</guid>
+      <pubDate>Mon, 29 Dec 2025 04:16:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
