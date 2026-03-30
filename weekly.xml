@@ -7,91 +7,91 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 03:36:00 +0000</lastBuildDate>
     <ttl>720</ttl>
     <item>
-      <title>71</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/71.md</link>
-      <description>第71期：2025年10月4日-2025年10月11日 1.SteamAchievementManager Steam 是目前全球最大的单机游戏平台， 但是，他们很多的功能，都没有添加严格验证，这就导致有很多漏洞存在。 比如网上很多卖游戏的， 都是通过  “伪入库” 来实现，能让你 “离线游玩” 各种游戏，并且操作非常简单， 但这部分因为平台创作规则，所以就不再具体分享。 再比如，各种游戏的成就系统，也可以轻易的通过伪装请求来解锁。 SteamAchievementManager 是一个开源的 Steam 成就解锁工具， 你可以通过它，解锁你的 Steam 任意游戏的任意成就， 并且使用起来非常简单，只需要登录 Steam，打开游戏，输入游戏 ID，就可以了。 如果你对收集游戏成就有兴趣，可以了解一下。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/71.md</guid>
-      <pubDate>Mon, 20 Oct 2025 07:05:31 +0000</pubDate>
+      <title>03</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/03.md</link>
+      <description>第三期【2024年6月15日-2024年6月22日】 1.广告滚蛋 Win11 更新以来，微软虽然增加了很多新功能，但也强行在系统中塞入了不少广告， 广告滚蛋，就是一个可以一键关闭这些广告的开源项目， 只需要勾一下 文件管理器广告、开始菜单广告、锁屏界面广告，通通说再见。 广告滚蛋原版：https://github.com/zetaloop/OFGB 广告滚蛋汉化版：https://github.com/zetaloop/OFGB 2.PowerToys 微软开源的一个系统工具套装，提供了很多大家想要，但 Windows 没有的功能。 PowerToys Run 快速启动器，只需按下快捷键，然后打字， 就能快速搜索电脑上的 软件、文件、并且能执行命令。 文本提取器，按下快捷键，轻轻框选，电脑屏幕上任何文本都能提取出来。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/03.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
     </item>
     <item>
-      <title>72</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/72.md</link>
-      <description>2025年10月11日-2025年10月18日 1.FileConverter 这是一个开源的文件格式转换工具， 它支持转换音频、视频、图片、文档等四种文件类型，一共几十个常见的格式， 能覆盖工作生活中大部分的文件转换需求。 并且，它使用起来非常简单， 安装之后，直接鼠标右键点击文件，选择 “FileConverter”， 然后选择一个文件格式，它就会自动生成一个对应格式的文件。 相比于其它格式转换工具， FileConverter 使用起来更方便，占用也非常小，是一个很优秀的项目。 FileConverter（文件格式转换） https://github.com/Tichau/FileConverter</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/72.md</guid>
-      <pubDate>Mon, 20 Oct 2025 07:11:17 +0000</pubDate>
+      <title>02</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/02.md</link>
+      <description>第二期 【2024年6月9日-2024年6月16日】 1.Dream Machine 初创公司 Luma 发布了他们的AI视频生成工具 Dream Machine，它能使用 120 秒的时间生成 120 帧的视频。 根据官方视频和网友放出的片段来看，Dream Machine 新生成的视频画面质量非常高，动作逼真连贯，运镜流畅自然，拥有电影级的效果。 不同于 OpenAI Sora 的一直不开放，Dream Machine 现在已经上线，并且所有人都能免费体验。 但根据网友的体验，他有时也会有翻车的情况，尤其是面对人体时。 Dream Machine 2.Stable Diffusion 3 Medium 该模型包含了 20 万亿个参数，拥有卓越的性能，能生成非常精细的图像。 但是根据很多网友的反馈，SD3 在人体生长方面效果奇怪，甚至有些诡异。 Stable Diffusion 3 Me...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/02.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
     </item>
     <item>
-      <title>73</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/73.md</link>
-      <description>2025年10月18日-2025年10月25日 1.ExplorerPatcher 虽然 Win11 目前已经成为 用户最多的电脑操作系统， 但是很多人并不是很喜欢它的设计，尤其是任务栏和右键菜单。 ExplorerPatcher 是一个开源的系统优化工具， 可以让我们定制 Win11 的很多设计。 打开它之后，电脑会自动重启 Explorer 窗口，此时屏幕可能会黑屏几秒， 然后你的任务栏就会变成 Win10 的样式。 在下边的任务栏中点击右键，选择 “属性”，打开 ExplorerPatcher 的设置页面， 能在这里看到很多其它的选项，这些你都可以按自己的想法调整。 比如能选择使用 Win10 还是 Win11 的风格，是否显示任务栏上的搜索框， 禁用掉 Win11 的双层右键菜单，恢复 Win10 的磁贴，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/73.md</guid>
-      <pubDate>Sat, 25 Oct 2025 16:45:03 +0000</pubDate>
+      <title>01</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/01.md</link>
+      <description>第一期【2024年6月3日-2024年6月9日】 1.ChatTTS 全新的语音生成模型，ChatTTS 近期在开源社区爆火，短时间内就收获了 20 多 k Star， ChatTTS 生成的语音效果非常真实，几乎和真人难以区分，并且可以添加笑声、停顿、语气词， 项目作者本人称，该项目的效果已经突破了开源天花板，并且，目前放出的还不是最强版本。 目前基于该项目，已经诞生了大量的周边项目，一个叫 ChatTTS-ui 的项目，也短时间内收获了 3.4 k Star， 该项目支持 ChatTTS 在各大系统上的一键运行，并且提供了好用的 UI 界面，感兴趣的可以进行尝试。 ChatTTS：https://github.com/2noise/ChatTTS ChatTTS webUI：https://github.com/jianchang512/ChatTTS-ui 2.GLM4、Qwen2开...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/01.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
     </item>
     <item>
-      <title>74</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/74.md</link>
-      <description>2025年10月25日-2025年11月1日 1.BettaFish 这是一个开源的舆情分析平台，可以帮助你破除信息检方，还原事件舆情原貌，并预测未来走向。 并且它使用起来也非常简单，只需要像聊天一样，提出来你要分析的内容，然后系统就会自动抓取分析国内外三十多家主流社媒和上百万大众评论的数据，并基于这些数据做分析，尽可能真实地生成报告。 比如某大学事件的舆情，使用它做分析，最后出来的报告是这样的，非常详细。 类似的舆情分析平台大部分都是企业级的专业收费软件。 BettaFish 作为一个开源项目，不但完全免费，做的也非常好。 BettaFish：https://github.com/666ghj/BettaFish 2. spleeter（声音分离） 这是一个开源的 desire 元分离库，可以使用它很轻松的在一段声音里分离出来其中的人声、音乐声、背景声。 不过 split 作为一个基础库...</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/74.md</guid>
-      <pubDate>Wed, 05 Nov 2025 10:51:26 +0000</pubDate>
+      <title>83</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/83.md</link>
+      <description>2025年12月27日-2026年1月3日 1.Green-Wall 2025 年过去，各大 APP 都出了年度报告， 但是 GitHub 并没有类似的功能，所以，我就找了两个开源项目， 一个叫 Green-Wall，一个叫 CyberGit， 两个项目的功能类似，都是读取你的 GitHub 数据，然后生成一份年度总结。 Green-Wall 的风格比较简约，CyberGit 更加极客风一点， 如果你是一个开源项目作者，可以给自己生成一份年报试一下。 GitHub 年报 https://github.com/Codennnn/Green-Wall https://github.com/Amery2010/cybergit 2.docker-android</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/83.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:56:49 +0000</pubDate>
     </item>
     <item>
-      <title>75</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/75.md</link>
-      <description>2025年11月1日-2025年11月8日 1.RyTuneX 这是一个开源的 Win10、Win11 优化工具， 打开之后，首页会显示目前电脑资源的使用状态， 我们选择 “优化” 页面，可以在这里看到很多选项， 比如 “禁用自动更新”、“禁用菜单显示延迟”、“启用游戏模式”。 “修理” 页面中，可以获取到电池健康报告、对内存进行诊断，优化电脑硬盘。 “精简” 页面可以一键批量卸载电脑上的各种软件，比电脑自带的卸载页面要好用很多。 “隐私” 页面可以关掉各种遥测和数据收集。 “功能” 中可以调整很多系统功能。 总而言之，这是一个非常全面的一站式优化方案。 RyTuneX（电脑优化）：https://github.com/rayenghanmi/RyTuneX</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/75.md</guid>
-      <pubDate>Sun, 09 Nov 2025 14:52:18 +0000</pubDate>
+      <title>84</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/84.md</link>
+      <description>2026年1月3日-2026年1月10日 1.mi-note-export 某米手机的云服务，会在一年不活跃之后，就冻结账号、清空账号数据， 如果你之前用过该品牌的手机，在笔记里记了很多东西， 但现在不用了，就可能会面临这种风险。 mi-note-export 是一个可以导出某米笔记数据的开源项目， 导出之后，可以本地收藏，一键生成博客网站， 也可以保存成 Markdown，方便导入到其它笔记软件里。 mi-note-export（笔记备份） https://github.com/idootop/mi-note-export 2.offline-translator 这是一个开源的安卓本地翻译器，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/84.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:57:51 +0000</pubDate>
     </item>
     <item>
-      <title>76</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/76.md</link>
-      <description>2025年11月8日-2025年11月15日 1.NCE-Flow 这是一个开源的新概念英语在线点读项目。 它的功能很简单，打开之后选择一个要听的单元， 点击播放，它就会连续播放整个单元的内容， 也可以单独点击并播放某一句话。 如果你在学新概念英语，有可能会有帮助。 NCE-Flow（新概念英语） https://github.com/luzhenhua/NCE-Flow 2.copyparty 这是一个开源的文件服务器， 它支持上传、下载、分享文件，支持断点续传、边传边下，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/76.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:11:28 +0000</pubDate>
+      <title>85</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/85.md</link>
+      <description>2026年1月10日-2026年1月17日 1.Sandboxie 如果你经常用电脑，可能会遇到过很多不安分的软件， 比如总是想自启、偷偷弹广告、修改你电脑的设置、读取电脑上的文件。 于是，很多人为了安心，会把它们放在虚拟机里边运行， 但其实还有另一种隔离工具，叫做 “沙盒”。 在 Windows 上，自带的就有这个功能，但是它并不好用。 Sandboxie 是一个非常知名的开源沙盒软件， 它使用起来也非常简单。 打开之后，在右上角点击 “沙箱” -&gt; “新建沙箱”， 输入一个名称，沙箱类型一般选择 “标准沙箱” 即可。 之后，我们有两种使用方式，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/85.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:58:32 +0000</pubDate>
     </item>
     <item>
-      <title>77</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/77.md</link>
-      <description>2025年11月15-2025年11月22日 1.code-box 如果你经常访问 某SDN、某乎、掘金 等网站， 可能总是会遇到不登录账号就 无法查看、无法选中、无法复制 等情况。 code-box 是一个开源的浏览器扩展，可以直接去除这些网站乱七八糟的限制， 想复制就复制、想查看就查看，不会再被烦人的登录弹窗干扰。 code-box（免登录复制） https://github.com/027xiguapi/code-box 2.TrendRadar 这是一个开源的新闻资讯热点助手， 它会持续通过爬虫，自动获取 某音、某乎、某B 等主流平台的热门信息， 然后用 AI 对获取到的信息进行筛选分析，挑出来符合用户要求的内容，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/77.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:12:20 +0000</pubDate>
+      <title>86</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/86.md</link>
+      <description>2026年1月17日-2026年1月24日 1.VidBee 之前给大家分享过，一个叫 yt-dlp 的项目，它可以下载全球上千个平台的视频。 但是它是命令行工具，用起来不是很方便。 VidBee 是一个基于 yt-dlp 开发的视频下载工具，继承了 yt-dlp 的强大功能， 但同时又有清晰直观好用的界面。 它使用起来非常简单，复制一下视频链接，然后点击右上角的 “粘贴链接” 按钮， 它就会自动分析能下载的视频规格，选择自己想要的，就可以下载到本地。 除了下载之外，它还提供了 RSS 订阅功能， 比如，把我的首页做成 RSS 链接，以后每次我更新，它就会自动下载下来。 VidBee https://github.com/nexmoe/VidBee</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/86.md</guid>
+      <pubDate>Wed, 25 Mar 2026 16:59:15 +0000</pubDate>
     </item>
     <item>
-      <title>78</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/78.md</link>
-      <description>2025年11月22日-2025年11月29日 1.FreeBox 这是一个开源的播放器类空壳软件， 空壳软件是指，软件本身不提供任何内容， 需要用户手动导入源，才能正常使用的软件。 所以，FreeBox 打开之后，看到的只有这样一个页面， 然后我们点击 “导入源”，选择 “TVBox”， 在网上搜一个好用的订阅源粘贴进去。 最后点 “进入” 按钮，就可以查看各种视频了。 需要注意的是，FreeBox 使用前，需要先在电脑上安装一个 VLC 播放器。 其次，这类软件的使用体验，和使用的源高度相关， 只有填写高质量的源，才会比较好用。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/78.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:13:13 +0000</pubDate>
+      <title>87</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/87.md</link>
+      <description>2026年1月24日-2026年1月31日 1.Clawdbot 这应该是本周最火的 AI 产品之一， 也是本周热度最高的开源项目之一。 从这张图就能看出来，它在极短的时间内，直线暴涨了 100k 的 Start，非常恐怖。 这个项目原名叫 Clawdbot， 不过本周改名了两次，先改成 Moltbot，现在又改成了 OpenClaw。 那么，这是是一个什么样的项目，能做什么，又该如何使用呢？ 首先来看它的官方介绍： “这是一个可以在自己设备上运行的个人 AI 助手， 能在各种即时通讯软件上响应你。” 简单来说，他的功能就像是我们之前分享过的 iFlow、MiniMax Agent，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/87.md</guid>
+      <pubDate>Wed, 25 Mar 2026 17:01:12 +0000</pubDate>
     </item>
     <item>
-      <title>79</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/79.md</link>
-      <description>2025年11月29日-2025年12月6日 1.WSABuilds WSA，是 Windows Subsystem for Android 的简称， 可以让我们在 Windows 上，像原生应用一样，无缝的使用安卓应用。 这本来是微软官方推出的一个功能， 但是在今年三月，因为收入不佳已经停止维护。 WSABuilds 是一个基于 WSA 的开源项目， 并且，它在 WSA 的基础上，进行了优化。 比如，支持 Play 商店，和 Root 权限。 虽然微软已经不提供更新了，但这仍然是在电脑上，使用手机软件的最佳方式之一， 如果你有此类需求，可以尝试一下。 WSABuilds</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/79.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:13:59 +0000</pubDate>
+      <title>88</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/88.md</link>
+      <description>2026年1月31日-2026年2月7日 1.GameNative 这是一个开源的安卓 Steam 客户端， 但是，它并不是像官方客户端那样，只能看一看， 而是真的能让我们在手机上，运行 Windows 端的游戏。 它的使用非常简单，只需要登录自己的账号， 然后就能把库里的游戏下载到手机上，并把它运行起来。 但需要注意的是，这种模拟器类项目， 因为兼容性的问题，并不能保证运行所有 Windows 游戏， 如果你对在手机上玩端游感兴趣，可以尝试折腾一下。 GameNative https://github.com/utkarshdalal/GameNative</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/88.md</guid>
+      <pubDate>Wed, 25 Mar 2026 17:01:53 +0000</pubDate>
     </item>
     <item>
-      <title>80</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/80.md</link>
-      <description>2025年12月6日-2025年12月13日 1.Open-AutoGLM 在豆包手机爆火之后，智谱开源了它们的手机端智能助理框架 AutoGLM， 简单来说，它可以像豆包手机一样， 你只需要用嘴下命令，AI 就会自动解析你的需求，打开对应的软件进行操作。 它会自动解析软件界面上的内容， 并自主完成规划。 比如我之前体验的场景： 想要挑一个礼物， 给它下任务之后，它会自动搜索资料、确定挑选策略、让我选择孩子的信息。 最后到购物软件搜索，反复查看各种商品的介绍、顾客的评价， 并且还会换关键词多次搜索，最后给到一个清单。 整体来说，因为不是系统应用，所以没有豆包手机那么流畅，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/80.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:14:52 +0000</pubDate>
+      <title>89</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/89.md</link>
+      <description>2026年2月7日-2026年2月14日 1.stretchly 之前我分享过一个叫 ProjectEye 的项目， 它的功能是每过 20 秒，就全屏提醒你放松眼睛 20 秒。 根据我半年的使用情况来看，这种强制休息的方式，确实对眼睛有很大的帮助。 酸痛干涩的情况，大大减少了。 但是 ProjectEye 已经很久没有更新了，并且只支持 Windows 系统。 stretchly 是一个提供类似功能的开源项目， 它提供的版本非常齐全，Mac、Linux、Windows 都有。 可以根据需要，设置自己最合适休息计划， 比如我就设置了没 20 分钟，休息 20 秒， 每过两个小时，休息 5 分钟。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/89.md</guid>
+      <pubDate>Wed, 25 Mar 2026 17:02:36 +0000</pubDate>
     </item>
     <item>
-      <title>81</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/81.md</link>
-      <description>2025年12月13日-2025年12月20日 1.archiveweb.page 上周，我分享了一个叫 “LazyCat” 的开源项目， 它的作用是，可以扫描浏览器书签，并找出来其中已经失效的网页。 然后我就发现，之前保存的很多 文章、博客，都已经打不开了，让人非常遗憾。 archiveweb 是一个开源的浏览器扩展， 它的功能是，强制把浏览器上的网页完整保存下来。 就比如，我这里随便找了一个网页， 其中有文字、有图片、有代码，内容还算比较复杂。 点击浏览器上的扩展图标， 选择 “Start Archiving”， 稍微等待一会儿，当浏览器图标上显示对号的时候，点击 “Stop”。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/81.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:16:09 +0000</pubDate>
+      <title>90</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/90.md</link>
+      <description>2026年2月14日-2026年2月21日 1.mouse-gestures 这是一个开源的鼠标手势浏览器扩展， 把它安装到浏览器上之后，按着鼠标右键，划出对应的图形，浏览器就会做出对应的操作。 比如，向右滑前进，向左滑后退， 划下 L 关闭网页，划下一个直角刷新网页。 用户也可以根据需要，自己来定制手势。 这种鼠标手势，如果习惯了的话，我个人感觉还是非常好用的。 mouse-gestures https://github.com/Chance-fyi/mouse-gestures 2.escrcpy 目前手机投屏到电脑，已经是一个非常常见的功能了，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/90.md</guid>
+      <pubDate>Wed, 25 Mar 2026 17:03:15 +0000</pubDate>
     </item>
     <item>
-      <title>82</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/82.md</link>
-      <description>2025年12月20日-2025年12月27日 1.HQ-ICON 作为一个经常分享软件的博主，我经常会在视频中，用到各种 APP 的高清图标， 但是，直接用搜索引擎来搜索，大部分情况下，都只能得到低质量版本。 此前我曾经分享过， 在 App Store 网页版的代码中，获取高清 APP 图标的办法，但是稍微有点麻烦。 HQ-ICON 就是一个可以解决这种问题的开源项目，并且使用起来很简单。 在这里搜一下名字，就能获取到对应的图标，点击一下即可保存到本地。 它的数据同样来自 App Store，所以理论上，App Store 有的软件都能找到。 HQ-ICON https://github.com/YuKongA/HQ-ICON 2.Flyoobe</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/82.md</guid>
-      <pubDate>Mon, 29 Dec 2025 04:16:37 +0000</pubDate>
+      <title>91</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/91.md</link>
+      <description>2026年2月21日-2026年2月28日 1.Mos 如果你在 Mac 上使用外接的鼠标， 很有可能会发现一个问题，它在滚动的时候，因为加速度的问题，会非常的不跟手， 有时候滑了半天滚轮，页面才动了一点点，并且非常不平滑， 尤其是当你习惯 Windows 后，这种感觉会更加强烈。 Mos 是一个开源的鼠标项目， 它主要的功能，就是让你的 Mac 鼠标，滚动更加平滑， 但就这么一个功能，就让它获得了 19k 的 Star， 因为使用之后，鼠标真的会有一种如获新生的感觉。 Mos：https://github.com/Caldis/Mos 2.BetterDisplay</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/91.md</guid>
+      <pubDate>Wed, 25 Mar 2026 17:04:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
