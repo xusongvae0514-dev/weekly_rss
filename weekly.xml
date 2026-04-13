@@ -7,36 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Apr 2026 03:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:50:36 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>03</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/03.md</link>
-      <description>第三期【2024年6月15日-2024年6月22日】 1.广告滚蛋 Win11 更新以来，微软虽然增加了很多新功能，但也强行在系统中塞入了不少广告， 广告滚蛋，就是一个可以一键关闭这些广告的开源项目， 只需要勾一下 文件管理器广告、开始菜单广告、锁屏界面广告，通通说再见。 广告滚蛋原版：https://github.com/zetaloop/OFGB 广告滚蛋汉化版：https://github.com/zetaloop/OFGB 2.PowerToys 微软开源的一个系统工具套装，提供了很多大家想要，但 Windows 没有的功能。 PowerToys Run 快速启动器，只需按下快捷键，然后打字， 就能快速搜索电脑上的 软件、文件、并且能执行命令。 文本提取器，按下快捷键，轻轻框选，电脑屏幕上任何文本都能提取出来。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/03.md</guid>
-      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>02</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/02.md</link>
-      <description>第二期 【2024年6月9日-2024年6月16日】 1.Dream Machine 初创公司 Luma 发布了他们的AI视频生成工具 Dream Machine，它能使用 120 秒的时间生成 120 帧的视频。 根据官方视频和网友放出的片段来看，Dream Machine 新生成的视频画面质量非常高，动作逼真连贯，运镜流畅自然，拥有电影级的效果。 不同于 OpenAI Sora 的一直不开放，Dream Machine 现在已经上线，并且所有人都能免费体验。 但根据网友的体验，他有时也会有翻车的情况，尤其是面对人体时。 Dream Machine 2.Stable Diffusion 3 Medium 该模型包含了 20 万亿个参数，拥有卓越的性能，能生成非常精细的图像。 但是根据很多网友的反馈，SD3 在人体生长方面效果奇怪，甚至有些诡异。 Stable Diffusion 3 Me...</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/02.md</guid>
-      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>01</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/01.md</link>
-      <description>第一期【2024年6月3日-2024年6月9日】 1.ChatTTS 全新的语音生成模型，ChatTTS 近期在开源社区爆火，短时间内就收获了 20 多 k Star， ChatTTS 生成的语音效果非常真实，几乎和真人难以区分，并且可以添加笑声、停顿、语气词， 项目作者本人称，该项目的效果已经突破了开源天花板，并且，目前放出的还不是最强版本。 目前基于该项目，已经诞生了大量的周边项目，一个叫 ChatTTS-ui 的项目，也短时间内收获了 3.4 k Star， 该项目支持 ChatTTS 在各大系统上的一键运行，并且提供了好用的 UI 界面，感兴趣的可以进行尝试。 ChatTTS：https://github.com/2noise/ChatTTS ChatTTS webUI：https://github.com/jianchang512/ChatTTS-ui 2.GLM4、Qwen2开...</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/01.md</guid>
-      <pubDate>Wed, 25 Mar 2026 16:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>83</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/83.md</link>
-      <description>2025年12月27日-2026年1月3日 1.Green-Wall 2025 年过去，各大 APP 都出了年度报告， 但是 GitHub 并没有类似的功能，所以，我就找了两个开源项目， 一个叫 Green-Wall，一个叫 CyberGit， 两个项目的功能类似，都是读取你的 GitHub 数据，然后生成一份年度总结。 Green-Wall 的风格比较简约，CyberGit 更加极客风一点， 如果你是一个开源项目作者，可以给自己生成一份年报试一下。 GitHub 年报 https://github.com/Codennnn/Green-Wall https://github.com/Amery2010/cybergit 2.docker-android</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/83.md</guid>
-      <pubDate>Wed, 25 Mar 2026 16:56:49 +0000</pubDate>
-    </item>
     <item>
       <title>84</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/84.md</link>
@@ -92,6 +64,34 @@
       <description>2026年2月21日-2026年2月28日 1.Mos 如果你在 Mac 上使用外接的鼠标， 很有可能会发现一个问题，它在滚动的时候，因为加速度的问题，会非常的不跟手， 有时候滑了半天滚轮，页面才动了一点点，并且非常不平滑， 尤其是当你习惯 Windows 后，这种感觉会更加强烈。 Mos 是一个开源的鼠标项目， 它主要的功能，就是让你的 Mac 鼠标，滚动更加平滑， 但就这么一个功能，就让它获得了 19k 的 Star， 因为使用之后，鼠标真的会有一种如获新生的感觉。 Mos：https://github.com/Caldis/Mos 2.BetterDisplay</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/91.md</guid>
       <pubDate>Wed, 25 Mar 2026 17:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>95</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/95.md</link>
+      <description>2026年3月22日-2026年3月28日 1.Skills 本周在 GitHub 上火了好几个奇怪的skills，比如这个叫 PUA 的 skills，它整合了十几家大厂的话术和绩效考核体系。 当AI执行任务失败时，他会问 AI 你连这个都解决不了，我怎么给你打绩效？让AI切换不同方式尝试。 再次失败时会问 AI 你的底层逻辑是什么？顶层设计在哪儿？抓手在哪儿？让AI去网上找资料和读源码。 如果一直失败，他会告诉AI别的模型都能解决，你可能就要毕业了，开启AI的拼命模式。 这个叫 PUAClaw 的项目更加离谱，一共总结了16套对AI施压的话术，从最温和的对AI拍马屁，让AI角色扮演到情感绑架、道德绑架，甚至直接对AI进行各种威胁。并且这里面的所有内容都不是随便写的，而是每一种都有作用。 机制研究以及参考文献，除了 PUA 流派，还有关爱派。 比如这个叫 NOPUA 的项目，他认为在同样...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/95.md</guid>
+      <pubDate>Sat, 28 Mar 2026 11:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>94</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/94.md</link>
+      <description>2026年3月15日-2026年3月21日 1.everything-claude-code 当前市面上最强的通用 agent 的产品，我认为不是目前很火的 OpenClaw，而是   claude code。 但是会有一个问题，它的功能实在太多了，并且更新的很快，怎么配置才好用？应该装什么skills？ 如何尽可能发挥它的能力上限，都是一个需要花很多时间研究的问题。 这种情况下直接抄冠军的作业就是一个很好的选择。 Everything-claude-code 这个项目是 Anthropic 黑客松冠军使用的 claude code 配置集合。这里面不是一些命令，也不是几个 skills，而是一整套工程化的配置。怎么优化 token，怎么内存持久化，有哪些好用的 MCP skill，一个开源项目全部解决。因为确实很好用，所以它在 GitHub 上目前足足有接近 90K 的 star。 ev...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/94.md</guid>
+      <pubDate>Sat, 28 Mar 2026 12:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>92</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/92.md</link>
+      <description>2026年3月1日-2026年3月7日 1.airi neuro sama 是一个由AI驱动的虚拟主播，在全世界都拥有非常高的热度。 他可以自己玩游戏，可以聊天，可以和直播间互动。 不过因为是个虚拟主播，所以他面向的是整个直播间的观众，并且直播完下线后就会消失。 airi 是一个使用同样理念打造的开源项目，可以让我们轻松运行起来一个只属于自己的虚拟生命。 他同样能聊天，能对话，能陪着玩游戏，还能根据自己的喜好设置他的人设，设置他的形象。 然后我们可以用它来做直播，也可以当成一个二次元的朋友用来陪伴自己。 airi：https://github.com/moeru-ai/airi 2.pausemygameW 这是一个开源的游戏暂停工具，听这个描述你可能会有些迷惑，游戏不是自己就能暂停吗？为什么还需要第三方工具？ 这是因为 pausemygameW 不仅可以暂停游戏中的内容，还可以释放出游戏...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/92.md</guid>
+      <pubDate>Wed, 01 Apr 2026 06:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>93</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/93.md</link>
+      <description>2026年3月8日-2026年3月14日 1.wsl2-distro-manager 如果你是一个计算机爱好者，那么可能会经常需要用到 linux。 如果不想做服务器，那么 windows 自带的 linux 子系统 WSL 就是最好的选择之一。 不过WSL要使用命令行来操作，虽然对于 linux 用户来说并不是什么难题，但也不是很方便。 WSL2-distro-manager 是一个开源的 WSL 管理器，可以通过简单直观的页面来使用 WSL 的各种功能，一键在 windows 上创建 linux 子系统，一键关闭、一键启动，一键保存成模板，非常方便。 wsl2-distro-manager：https://github.com/bostrot/wsl2-distro-manager 2.CCTV-Smartphone-AI-Monitoring（Sentinel） 这是一个可以把你闲置...</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/93.md</guid>
+      <pubDate>Wed, 01 Apr 2026 06:09:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
