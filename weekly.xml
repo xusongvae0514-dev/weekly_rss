@@ -7,29 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:52:32 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>111</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/111.md</link>
-      <description>【111】2026年7月11日-2026年7月18日 1.Codex-Dream-Skin 有人给 Codex 做了一个换肤的开源项目， 可以通过一张图，一键给你的 Codex 定制、更换各种主题。 功能很简单，但是很有意思， 比如像这个主题，我就非常喜欢。 Codex-Dream-Skin https://github.com/Fei-Away/Codex-Dream-Skin 2.wenyi 这是一个可以一键翻译长篇小说的开源项目， 支持 EPUB、TXT、PDF 等各种格式。 因为模型上下文的限制，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/111.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>110</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/110.md</link>
-      <description>【110】2026年7月4日-2026年7月11日 1.viap 前段时间， 某办公软件会把缓存默认放在 C 盘，引起了很多人的讨论。 但其实，用户数据放 C 盘，是很多软件的默认设置， 比如像 Chrome、Edge 这些浏览器， 不但数据在 C 盘，还没有办法修改，并且可能会占用非常大。 viap 是一个可以帮我们解决这种问题的开源工具， 它的原理是先把软件的数据迁移到其他分区， 再使用 “软链接” 链接回 C 盘， 这样不但把数据挪走了，也不会影响软件的使用。 是目前我最推荐的清理 C 盘的方式之一。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/110.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>109</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/109.md</link>
-      <description>【109】2026年6月27日-2026年7月4日 1.chinese-poetry-api 这是一个开源的中国古典诗词 API 服务， 其中收录了唐诗、宋词、元曲等各类诗词 37 万首， 涵盖李白、杜甫、苏轼等 130000 多名诗人，11 个朝代、17 种题材。 我们可以通过它提供的 API， 随机获得一首诗、 搜索某个诗人、 也可以多条件综合查询、全文搜索、获得各种统计数据。 如果你想要做古诗相关的软件，它或许能提供一些帮助。 不想用 API 的话， 这个项目的数据，全都来自另一个叫 chinese-poetry 的项目，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/109.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
     <item>
       <title>108</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/108.md</link>
@@ -92,6 +71,27 @@
       <description>【100】2026年4月25日-2026年5月2日 1.AngelSlim 腾讯混元开源了一个手机端离线翻译模型， 大小仅有 400M，支持 33 种语言， 同时具有比肩商用翻译模型的效果。 AngelSlim 是这个项目在 GitHub 上的代码仓库， 模型和手机 Demo 可以在 README 文档中找到， 如果你需要一个随时随地，在没网的情况下也能用的翻译工具，那或许会对你有用。 AngelSlim https://github.com/tencent/AngelSlim 2.PLFM_RADAR 这是一个开源的硬件项目，</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/100.md</guid>
       <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>113</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/113.md</link>
+      <description>【113】2026年7月25日-2026年8月1日 1.wloc 这是一个可以在 iPhone 上，修改定位的开源项目， 它的核心原理是拦截系统发出的定位请求，并返回指定的坐标。 在第一次使用的时候， 它需要在一个火箭图标的软件里， 根据教程导入模块，打开 HTTPS 解密功能，并安装证书和描述文件， 之后就能随时切换定位了。 如果你在用 iPhone，且有一点点折腾能力，或许能够帮到你。 我的想法是： 适合用来解锁 Apple Watch 的高血压监测等健康功能。 wloc</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/113.md</guid>
+      <pubDate>Wed, 12 Aug 2026 16:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>114</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/114.md</link>
+      <description>【114】2026年8月1日-2026年8月8日 1.free_premium_ai 这是一个收集免费 AI 平台的项目， 它的收录标准是： 模型需要高智商，在 LiveBench 中需要有项目超过 70 分。 需要在注册时免费赠送较大的 AI 额度，或者每天签到赠送额度。 我尝试了一下文档中的几个平台，确实是能领取到额度并使用的。 但需要注意的是，免费、稳定、高性能一般不可兼得， 这些免费额度，一般都是吸引人注册的诱饵， 所以只适合临时使用一下，或者拿来做一些小东西。 free_premium_ai（免费 AI） https://github.com/swufe-xiongmin/free_premium_ai</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/114.md</guid>
+      <pubDate>Wed, 12 Aug 2026 16:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>115</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/115.md</link>
+      <description>【115】2026年8月8日-2026年8月15日 1.liang-intensity-calibrator 最近因为 DeepSeek 的热度持续高涨， 导致创始人梁文峰的梗也非常火， 当 DeepSeek 发布了一个便宜又好用的模型时，大家会尊称他为梁圣， 当 DeepSeek 发布了一个一般的模型并涨价时，大家会喊他梁子， 于是有人做了一个这样的滑动变祖器， 有 241 帧连续人像变化，支持 0.01 级调节精度， 可以丝滑的从梁祖变成牢梁。 liang-intensity-calibrator（变祖器） https://github.com/Lichtspektrum/liang-intensity-calibrator 2.DeepSeek Harness</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/115.md</guid>
+      <pubDate>Sat, 15 Aug 2026 13:43:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
