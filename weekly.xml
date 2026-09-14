@@ -7,29 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:49:27 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>108</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/108.md</link>
-      <description>【108】2026年6月20日-2026年6月27日 1.EmojiFace 这是一个可以自动识别照片中的人脸， 然后给它们打码的开源手机 APP， 目前一共有两种打码形式， 一种是在人脸上覆盖 emoji 表情，一种是增加高斯模糊。 最近到了毕业季，一般都会拍毕业合照， 在发朋友圈时为了保护别人隐私，很多人都会给其它同学打码， 如果嫌手动打码太累，EmojiFace 就能帮到忙。 不过需要注意的是，EmojiFace 默认是直接打码识别到的所有人脸。 想要把自己的脸露出来，可以点一下 emoji，然后把遮挡的表情删掉。 EmojiFace</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/108.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>107</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/107.md</link>
-      <description>【107】2026年6月13日-2026年6月20日 1.Deskflow 这是一个可以让我们使用一套键鼠，就能控制多台电脑的软件， 之前因为家里桌子太小，不想放两套键鼠， 所以买了一个 KVM 切换器来解决问题， 但它并不算很方便，每次切换设备，都需要按物理按键。 于是我就找了一下有没有什么软件方案， Deskflow 就是其中的一个，它使用起来非常简单，让两台电脑连接同一个网络， 把常用电脑设置成服务器模式，并记下来右上角的 IP， 在另一台电脑上选择客户端模式，输入刚刚的服务器 IP， 两台电脑就连接到一起了， 然后配置一下两台电脑的虚拟布局，比如我把 xuanli 放在右边，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/107.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>106</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/106.md</link>
-      <description>【106】2026年6月6日-2026年6月13日 1.WechatOnCloud 作为一个国民软件，微信的痛点有什么？ 占用空间大、多设备间不能消息同步、多开比较麻烦，这些肯定是排名比较靠前的。 而现在，一个开源的解决方案来了。 WechatOnCloud 是一个可以让我们把微信运行在 Docker 里，然后变成网页的开源项目。 之后，我们就可以随时在浏览器里访问它， 并实现同时登录多个微信账号， 不同的设备只要打开网页，就能共享同一个微信，且记录同步。 所有数据都被放在 Docker 里， 如果你有一个可以运行 Docker 的 NAS， 那么把它装在 NAS 上后，就不会再占用本机空间。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/106.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
     <item>
       <title>105</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/105.md</link>
@@ -92,6 +71,27 @@
       <description>【115】2026年8月8日-2026年8月15日 1.liang-intensity-calibrator 最近因为 DeepSeek 的热度持续高涨， 导致创始人梁文峰的梗也非常火， 当 DeepSeek 发布了一个便宜又好用的模型时，大家会尊称他为梁圣， 当 DeepSeek 发布了一个一般的模型并涨价时，大家会喊他梁子， 于是有人做了一个这样的滑动变祖器， 有 241 帧连续人像变化，支持 0.01 级调节精度， 可以丝滑的从梁祖变成牢梁。 liang-intensity-calibrator（变祖器） https://github.com/Lichtspektrum/liang-intensity-calibrator 2.DeepSeek Harness</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/115.md</guid>
       <pubDate>Sat, 15 Aug 2026 13:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>118</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/118.md</link>
+      <description>【118】2026年8月29日-2026年9月5日 1.convenient_window_free 在 Mac 上有一个叫触发角的功能， 只要把鼠标移动到屏幕的角落里，就能触发各种功能。 convenient_window_free 是一个可以给 Windows 也增加触发角功能的项目， 我们可以自定义触发位置、方式、触发后执行的动作， 比如我喜欢把右上角设置成直接触发任务视图，右边缘设置成直接触发回到桌面， 也可以根据需要自定义各种快捷键和命令， 使用时只需要动动鼠标，习惯之后会非常方便。 如果不喜欢触发角，也可以用鼠标手势， 设定好之后，长按鼠标右键并画出指定图案，就能执行指定的动作。 除此之外，它还有窗口增强功能，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/118.md</guid>
+      <pubDate>Sun, 06 Sep 2026 14:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>117</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/117.md</link>
+      <description>【117】2026年8月22日-2026年8月29日 1.MCTier 这是一个用于打造虚拟局域网的联机工具， 很多联机游戏因为没有服务器，所以需要在同一个局域网内才能玩， 但大多数时候，大家都没有这种聚在线下玩游戏的条件。 有了 MCTier 之后，只需要玩家 A 创建大厅，其他人加入进来， 就组成了一个虚拟局域网，可以随时随地联机。 不过它也不只能用在游戏方面， 办公、远程展示、传文件等所有需要局域网的场景都能使用。 比如我之前分享过的 Plane App，主要用来在手机和电脑上传文件，非常好用， 但是必须要在同一个局域网内，现在 MCTier 完成异地组网就能打破这个限制。 MCTier（虚拟局域网）</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/117.md</guid>
+      <pubDate>Sun, 06 Sep 2026 14:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>116</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/116.md</link>
+      <description>【116】2026年8月15日-2026年8月22日 1.DeepSeek Harness插件 DeepSeek Harness 仅仅发布了一周，插件生态就迎来了大爆发， 今天给大家分享一些我感觉比较有意思或者有用的。 在 GitHub 上目前有一个专门的插件分区 dsh-plugin， 收录了 1 万多款不同的插件，并且默认按 Star 数排序，应该是目前最齐全的， 但缺点是内容太多且没有专门的整理，整体质量参差不齐。 懒得自己一个个看的话，可以到 DSH Market 或者 Awesome DSH Plugin， 这两个网站里面都是由人工精选出来的优质插件， 并且会提供详细的介绍、分类、安装方式。 嫌窗口切换太麻烦，还可以使用插件 dsh-market， 它的功能是给 DeepSeek Harness 增加一个插件市场，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/116.md</guid>
+      <pubDate>Sun, 06 Sep 2026 14:11:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
