@@ -7,57 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:38:49 +0000</lastBuildDate>
     <ttl>720</ttl>
-    <item>
-      <title>105</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/105.md</link>
-      <description>【105】2026年5月30日-2026年6月6日 1.ThreeFingerDragOnWindows 众所周知，Mac 的触摸板非常好用， 这其中的原因有很多，比如在拖动窗口、多选文字、文件时， Mac 是把光标移动到标题栏，然后三指拖动，非常快捷好用。 而 Windows 是把光标移动到标题栏，然后快速轻按两下， 第二次时不要抬起手指，并在触摸板上滑动拖拽，体验就稍微差了一点，还容易和打开手势冲突。 ThreeFingerDragOnWindows，是一个能让我们在 Windows 上，使用三指拖动的开源项目。 优化之后，这个常用的操作，体验要好上不少。 ThreeFingerDragOnWindows触摸板 https://github.com/ClementGre/ThreeFingerDragOnWindows 2.AppPorts</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/105.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>104</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/104.md</link>
-      <description>【104】2026年5月23日-2026年5月30日 1.tiez-clipboard 目前 Mac 和 Windows 系统，都有自带的剪切板工具， 但是它们都不算很好用， 比如像 Windows，数量有上限、不能搜索、不能持久化保存， 重启后数据就会全部丢失，很难长期使用。 tiez-clipboard 是一个开源的剪切板工具， 支持 Windows、Mac 和 安卓， 它的功能分为单机和在线两个部分。 我拿 Windows 版本举例，单机情况下， 它在系统剪切板的基础上，增加了持久化保存的功能，可以自定义存储上限。 增加了搜索功能，可以更方便的找到复制的内容。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/104.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>103</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/103.md</link>
-      <description>【103】2026年5月16日-2026年5月23日 1.ContextMenuMgr 如果你在电脑上，安装了很多软件，尤其是工具类软件， 那么当你选中一个文件，点击鼠标右键后， 你的右键菜单很可能也会像我一样，被各种选项塞满。 想要关掉它们，根本找不到设置在哪， 甚至有时软件都卸掉了，这些选项仍然还在。 我之前分享过一个叫 ContextMenuManager 的开源项目， 可以用它 禁用、开启、自定义 右键菜单中的内容。 但是，它并不是完美的， 不支持搜索、不支持 Win11 新版菜单， 并且是被动机制，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/103.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>102</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/102.md</link>
-      <description>【102】2026年5月9日-2026年5月16日 1.tiny_computer 这是一个可以让我们在手机上， 运行桌面版 Linux 系统的开源项目，使用起来非常简单，基本上做成了一键包。 之后，我们就可以通过它，使用电脑版的 WPS、浏览器、QQ，以及其它 Linux 软件。 如果你喜欢折腾各种有意思的项目，那这个小小电脑或许会有帮助。 tiny_computer https://github.com/Cateners/tiny_computer 2.Pixelle-Video 这是一个开源的 AI 自动短视频引擎， 只要输入一个选题， 它就会自动完成文案撰写、</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/102.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>101</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/101.md</link>
-      <description>【101】2026年5月2日-2026年5月9日 1.cc-switch 2026 年的 AI，是 Agent 的时代， Claude Code、Codex、OpenCode、OpenClaw 各种工具都有很多人用。 但是，一个问题也随之诞生了， 想要在这些工具中随意切换模型，需要经常改配置文件，非常麻烦且浪费时间。 cc-switch 是一个可以帮我们统一管理，Agent 工具模型的开源项目， 比如我要在 Claude Code 上使用 DeepSeek 模型， 就打开 cc-switch，选择 Claude Code， 点击右上角的加号，在这里已经有了非常多的模型供应商， 选一个自己想要的，然后在下边填写 key 等信息，之后点击添加。 就能在模型列表中看到它，并一键使用了。</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/101.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>100</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/100.md</link>
-      <description>【100】2026年4月25日-2026年5月2日 1.AngelSlim 腾讯混元开源了一个手机端离线翻译模型， 大小仅有 400M，支持 33 种语言， 同时具有比肩商用翻译模型的效果。 AngelSlim 是这个项目在 GitHub 上的代码仓库， 模型和手机 Demo 可以在 README 文档中找到， 如果你需要一个随时随地，在没网的情况下也能用的翻译工具，那或许会对你有用。 AngelSlim https://github.com/tencent/AngelSlim 2.PLFM_RADAR 这是一个开源的硬件项目，</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/100.md</guid>
-      <pubDate>Sun, 26 Jul 2026 16:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>113</title>
-      <link>https://github.com/xuanli199/weekly/blob/main/docs/113.md</link>
-      <description>【113】2026年7月25日-2026年8月1日 1.wloc 这是一个可以在 iPhone 上，修改定位的开源项目， 它的核心原理是拦截系统发出的定位请求，并返回指定的坐标。 在第一次使用的时候， 它需要在一个火箭图标的软件里， 根据教程导入模块，打开 HTTPS 解密功能，并安装证书和描述文件， 之后就能随时切换定位了。 如果你在用 iPhone，且有一点点折腾能力，或许能够帮到你。 我的想法是： 适合用来解锁 Apple Watch 的高血压监测等健康功能。 wloc</description>
-      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/113.md</guid>
-      <pubDate>Wed, 12 Aug 2026 16:33:07 +0000</pubDate>
-    </item>
     <item>
       <title>114</title>
       <link>https://github.com/xuanli199/weekly/blob/main/docs/114.md</link>
@@ -92,6 +43,55 @@
       <description>【116】2026年8月15日-2026年8月22日 1.DeepSeek Harness插件 DeepSeek Harness 仅仅发布了一周，插件生态就迎来了大爆发， 今天给大家分享一些我感觉比较有意思或者有用的。 在 GitHub 上目前有一个专门的插件分区 dsh-plugin， 收录了 1 万多款不同的插件，并且默认按 Star 数排序，应该是目前最齐全的， 但缺点是内容太多且没有专门的整理，整体质量参差不齐。 懒得自己一个个看的话，可以到 DSH Market 或者 Awesome DSH Plugin， 这两个网站里面都是由人工精选出来的优质插件， 并且会提供详细的介绍、分类、安装方式。 嫌窗口切换太麻烦，还可以使用插件 dsh-market， 它的功能是给 DeepSeek Harness 增加一个插件市场，</description>
       <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/116.md</guid>
       <pubDate>Sun, 06 Sep 2026 14:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>119</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/119.md</link>
+      <description>【119】2026年9月5日-2026年9月12日 1.BongoCat BongoCat 是一个开源的互动桌宠， 打开之后，屏幕上会出现一个拿着鼠标键盘的小猫咪， 并且会跟随你移动鼠标、按下键盘的动作，做出相应的反应。 不过，它最初的版本早在多年前就已经停更了， 继任的版本也有五个月没有更新。 最近，Catime 的开发者把这只可爱的小猫桌宠， 完全重写了一遍，并加入了大量的全新特性。 首先改进最大的地方，我认为是资源占用， 因为整个项目是基于 C 语言的，所以占用小的可怕， 软件体积只有 5 MB，运行时内存不超过 20MB，CPU 几乎可以忽略不计。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/119.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>120</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/120.md</link>
+      <description>【120】2026年9月12日-2026年9月19日 1.Catrace 这是一个电脑弹窗提醒工具， 它可以通过插件的形式，让我们自定义电脑上的通知信息。 比如，每用电脑 20 分钟，提醒休息 20 秒， 每过 15 分钟，提醒一次喝水， 在电脑前连续活跃 45 分钟后，全屏弹窗强制休息， 连接上蓝牙耳机之后，弹窗提醒耳机已连接，并自动打开音乐软件， 手机上收到短信后，在电脑上自动弹窗消息。 我们也可以把它的插件开发文档发给 AI， 通过组合 Catrace 提供的各种能力，根据需要来自定义插件， 比如，只要玄离199更新视频，就弹窗提醒并直接跳转到网页。</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/120.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>121</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/121.md</link>
+      <description>【121】22026年9月19日-2026年9月26日 1.img2threejs Threejs 是一个运行在浏览器中的 3D 渲染引擎， 因为基于它的项目和资料很多，所以在 vibecoding 进入 3D 时代后， 它也理所当然的成为了 AI 的首选 3D 工具。 img2threejs 是一个可以只通过一张图片，就能让 AI 生成一个 3D 模型的项目。 并且，它生成的不是静态的死模型， 而是一段可以运行的 JS 代码，所以天生可以修改，可以互动， 绑定了骨骼，设置好了碰撞，能直接放到项目里使用。 如果你有需要用到 3D 的场景，或许会对你有用。 img2threejs（生成 3D 模型） https://github.com/img2threejs/img2threejs</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/121.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>122</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/122.md</link>
+      <description>【122】2026年9月26日-2026年10月3日 1.AIHOT 知名的 AI 博主 “数字生命卡兹克”， 花半年时间，开发了一个收集 AI 热点的网站，并运营到了百万月活。 因为有很多观众想要除了 AI 之外，其它行业的热点网站， 所以卡兹克选择直接把代码开源。 只需要把其中的信源名单，修改成自己行业的权威信源， 就能快速搭建出来一个任何领域的热点网站。 AIHOT 最初的开发目的，是为了给团队内部做一个好用的选题工具， 所以它 “采集、筛选、评分、总结、合并” 信息的工作方式，是经过验证、比较合理好用的。 如果你有类似的需求，或许会对你有用。 AIHOT（热点工具）</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/122.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:17:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>123</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/123.md</link>
+      <description>【123】2026年10月3日-2026年10月10日 1.photocraft 一个叫 storytold 的开发者， 在 AI 的帮助下，用 Rust 复刻了 Adobe 的全家桶， 包括处理图片的 PS， 剪视频的 PR， 做视频特效的 AE， 管理、编辑照片的 Lr， 矢量图编辑、设计软件 AI， 出版印刷排版工具 ID， PDF 处理软件 Acrobat。 除此之外，还有微软的 Word、Excel、PPT，</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/123.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:18:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>124</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/124.md</link>
+      <description>【124】2026年10月10日-2026年10月17日 1.rea 这应该是最近最火的开源项目， 全称 Reverse Engineer Anything，翻译过来就是逆向一切，短时间内就拿下了 260k Star。 它的原理，是把 Hopper、Ghidra 等市面上成熟的逆向工具，接入到 AI Agent，并设计了一套工作流。 逆向工具负责反编译，Agent 负责调用工具，对结果进行分析研究学习， 最后把代码为己所用，破解掉软件的付费限制、设备限制、系统限制，或者直接复刻出一个类似的软件。 目前短短几天，我已经看到了大量诞生在此项目下的成果， 比如以前很多指定只能在部分设备上玩的游戏，被人移植到了浏览器里，打开网页就能玩， 有人逆向了空调的协议，并在电脑上做了一个小工具，通过电脑控制空调， 有人拿它进行各种破解、复刻。 我的想法是：</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/124.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>125</title>
+      <link>https://github.com/xuanli199/weekly/blob/main/docs/125.md</link>
+      <description>【125】2026年10月17日-2026年10月24日 1.bili-cli 本周，在平台上，出现了大量由 DeepSeek 自主运营的账号， 它们可以自己做视频、发视频、看视频、发动态、回评论、回私信、@主人。 bili-cli 是一个给 AI Agent 设计的 某 B 命令行工具， 它定制好了包括 看、互动、表态、创作、运营、汇报 在内的各种能力。 你可以通过它们，根据自己的喜好，定制一个自己专属的视频平台大肥鱼， 帮自己找好看的视频，或者让它自己开一个账号当 up 主。 我的想法是： 虽然 DeepSeek 很好玩，但是不建议大家用它大规模污染评论区，容易引起反感。 bili-cli（哔哩CLI工具） https://github.com/kukemc/bili-cli</description>
+      <guid isPermaLink="false">https://github.com/xuanli199/weekly/blob/main/docs/125.md</guid>
+      <pubDate>Sat, 24 Oct 2026 13:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
